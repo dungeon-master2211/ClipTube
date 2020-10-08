@@ -1,0 +1,41 @@
+.home-svg{
+
+	margin-top: 20%;
+}
+.hero-head{
+	margin-top: 20%;
+	margin-left: 10%;
+	font-size: 100px;
+}
+.col-md-6 form{
+	padding:20px;
+	padding-left: 10%;
+}
+.buttons{
+	padding-top: 20px;
+}
+.second-head{
+	font-size: 30px;
+	margin-top: 20%;
+	margin-left: 10%;
+}
+.down{
+	margin-left: 10%;
+	padding:10px;
+	border: 1px solid;
+	text-decoration: none;
+	border-radius: 40px;
+	background-color: #FF7A63;
+	color:white;
+	font-size: 30px;
+}
+a{
+	text-decoration:none;
+
+}
+
+.ext{
+	padding:20px;
+	padding-left: 10%;
+	font-size: 20px;
+}
